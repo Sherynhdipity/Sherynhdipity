@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sherynhell 
 - 👀 I’m interested in Programming, Web development and Software Development
-- 💞️ I’m looking to collaborate on projects that would further improve my programming
+- 💞️ I’m looking to collaborate on projects that would further improve my programming skills
 - 📫 You can reach me on my socials, but i'm probably busy for that
 
 <!---
