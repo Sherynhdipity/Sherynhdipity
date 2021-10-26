@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Sherynhdipity
+- 👋 Hi, I’m Sherynhell 
 - 👀 I’m interested in Programming, Web development and Software Development
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on mobile development and web development
+- 💞️ I’m looking to collaborate on projects that would further improve my programming
 - 📫 You can reach me on my socials, but i'm probably busy for that
 
 <!---
